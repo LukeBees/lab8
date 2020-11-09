@@ -1,0 +1,44 @@
+body
+{
+  background-color: purple;
+  background-image: url(Garanca4.jpg);
+  background-repeat:no-repeat;
+  background-attachment: scroll;
+  background-size: 100%;
+  font-family: Verdana, sans-serif;
+}
+
+p
+{
+  color: yellow;
+  font-size: 20px;
+  width: 30%;
+}
+
+a
+{
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover
+{
+  background-color: green;
+}
+
+h1
+{
+  color: rgb(0,134,255);
+}
+
+h2
+{
+  color: rgb(100,200,255);
+}
+
+p.carmen
+{
+  width: 75%;
+  color: yellow;
+  background-color: red;
+}
